@@ -1,0 +1,8 @@
+{
+    "remoteEnv": {
+        "AWS_CLI_AUTO_PROMPT": "on-partial"
+    },
+    "features": {
+      "ghcr.io/devcontainers/features/aws-cli:1": {}
+    }
+}
